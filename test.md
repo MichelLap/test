@@ -5,7 +5,7 @@
 ⚠️ Breaking change: Direct access to the add-on has been removed in favor of Ingress. This means all direct access related options (i.e., SSL settings) and the direct access port setting, has been removed.
 
 ### 🔨 Changes
-
+:books:
 - :books: Update add-on documentation to use new YAML configuration format
 - :hammer: Re-branding
 - :hammer: Update add-on config with new password & list features
